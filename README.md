@@ -11,7 +11,9 @@ The act of moving one's body relieves tension. Also, the loud sound it produces 
 
 ## Data Integration
 Data is acquired by remote control signals and by the microphone module.
+
 The signal from the remote control waits for acquisition based on the mode of the quiz. It is used to progress it and to input answers.
+
 Also, data from the microphone module is acquired at regular intervals in terms of sound volume, which is used for mode progression and as a condition for turning on the lights.
 
 # Introduction Video
